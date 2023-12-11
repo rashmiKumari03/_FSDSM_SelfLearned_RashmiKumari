@@ -1,6 +1,7 @@
-
-numpy==1.19.5
-pandas==1.2.5
+ipykernel
+numpy
+pandas
+nbformat>=4.2.0
 plotly
 scikit-learn
 matplotlib

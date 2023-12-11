@@ -1,6 +1,6 @@
 
-numpy
-pandas
+numpy==1.19.5
+pandas==1.2.5
 plotly
 scikit-learn
 matplotlib

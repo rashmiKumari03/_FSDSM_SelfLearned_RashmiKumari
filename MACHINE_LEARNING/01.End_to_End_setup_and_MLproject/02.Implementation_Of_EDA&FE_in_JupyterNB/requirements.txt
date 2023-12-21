@@ -3,7 +3,9 @@ numpy
 pandas
 nbformat>=4.2.0
 plotly
-scikit-learn
+scikit-learn==1.1.3    # Here we have specified the version, because with latest/default version it wasnot have imputers...
+                         # and that was causing issue...this version have Simpleimputer and etc.
+
 matplotlib
 seaborn
 Flask
